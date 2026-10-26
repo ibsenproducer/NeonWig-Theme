@@ -13,4 +13,4 @@ NeonWig for Bitwig To be used with [Theme Editor by Berikai](https://github.com/
 
 ## Screenshots
 
-![Screenshot]([https://github.com/ibsenproducer/Frost-bitwig-theme/blob/main/frost.png?raw=true](https://raw.githubusercontent.com/ibsenproducer/NeonWig-Theme/refs/heads/main/Neonwig.png)
+![Screenshot](([https://github.com/ibsenproducer/Frost-bitwig-theme/blob/main/frost.png?raw=true](https://raw.githubusercontent.com/ibsenproducer/NeonWig-Theme/refs/heads/main/Neonwig.png))
